@@ -1,3 +1,4 @@
 # Master_EDM_2025
 Exercice de première utilisation de GIT.
-Pauline est la prems
+Salut moi c'est williamgir
+Pauline est a falli étre la prems
